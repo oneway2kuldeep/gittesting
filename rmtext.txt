@@ -1,0 +1,2 @@
+first rmtext.tx
+and now rmtext.txt
