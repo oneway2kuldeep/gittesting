@@ -1,1 +1,0 @@
-This is test4 to merge only this file from branch2 to master.
